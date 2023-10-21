@@ -1,0 +1,10 @@
+C:\Users\Ayoub\source\repos\DEB\DEB\bin\Debug\DEB.exe.config
+C:\Users\Ayoub\source\repos\DEB\DEB\bin\Debug\DEB.exe
+C:\Users\Ayoub\source\repos\DEB\DEB\bin\Debug\DEB.pdb
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.Properties.Resources.resources
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.csproj.GenerateResource.cache
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.exe
+C:\Users\Ayoub\source\repos\DEB\DEB\obj\Debug\DEB.pdb
